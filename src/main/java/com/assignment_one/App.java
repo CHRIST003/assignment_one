@@ -21,6 +21,10 @@ public class App
         try {
             do {
                 try {
+                    //my changes 
+                    System.out.print("hey Chist here");
+                    
+                    
                     System.out.print("Enter first value: ");
                     double firstValue = Double.parseDouble(br.readLine()); //scn.nextDouble();
                     System.out.print("Enter second value: ");
